@@ -9,6 +9,7 @@ CUT COACH: Tony’s 8-Week Shred is a simulation designed to demonstrate the imp
 ⚠️ The numbers, body composition changes, and physiological outcomes presented in this game are fabricated for gameplay purposes and should not be interpreted as medical or fitness advice.
 
 While the game reflects real concepts from bodybuilding and fat loss strategies, it simplifies complex biological processes to make them engaging and easy to follow. Every individual’s body responds differently to calorie intake, exercise, and cutting protocols.
+
 🧠 Takeaway:
 
 The core message behind this game is:
